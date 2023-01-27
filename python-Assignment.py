@@ -17,7 +17,7 @@ def isvalid(x_cord,y_cord,matrix):
 
 ##################################################################
 
-# breadth first search function named as capture
+# Depth first search function named as capture
 def capture(matrix,x_cord,y_cord,vis):
     #print(y_cord,x_cord)
    
